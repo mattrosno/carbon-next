@@ -1,0 +1,8 @@
+name: Select
+description:
+  The select component allows users to choose one option from a list. It is used
+  in forms for users to submit data.
+type: component
+status: stable
+framework: react
+platform: web

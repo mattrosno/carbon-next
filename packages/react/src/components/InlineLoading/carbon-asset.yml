@@ -1,0 +1,8 @@
+name: Inline loading
+description:
+  The inline loading component provides visual feedback that data is being
+  processed.
+type: component
+status: stable
+framework: react
+platform: web

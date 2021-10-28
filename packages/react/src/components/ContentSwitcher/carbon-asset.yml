@@ -1,0 +1,8 @@
+name: Content switcher
+description:
+  Content switchers allow users to toggle between two or more content sections
+  within the same space on screen.
+type: component
+status: stable
+framework: react
+platform: web

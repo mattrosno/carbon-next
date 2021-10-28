@@ -1,0 +1,9 @@
+name: Notification
+description:
+  Notifications are messages that communicate information to the user. The two
+  main variants of notifications are toast notifications and inline
+  notifications.
+type: component
+status: stable
+framework: react
+platform: web

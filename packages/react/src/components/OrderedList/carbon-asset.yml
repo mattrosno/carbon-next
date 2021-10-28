@@ -1,0 +1,8 @@
+name: List
+description:
+  Lists are vertical groupings of related content. List items begin with either
+  a number or a bullet.
+type: component
+status: stable
+framework: react
+platform: web

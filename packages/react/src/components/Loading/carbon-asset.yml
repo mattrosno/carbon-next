@@ -1,0 +1,8 @@
+name: Loading
+description:
+  Loading spinners are used when retrieving data or performing slow
+  computations, and help to notify users that loading is underway.
+type: component
+status: stable
+framework: react
+platform: web

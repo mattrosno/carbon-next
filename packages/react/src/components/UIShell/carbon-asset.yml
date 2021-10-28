@@ -1,0 +1,9 @@
+name: UI shell
+description:
+  A shell is a collection of components shared by all products within a
+  platform. It provides a common set of interaction patterns that persist
+  between and across products.
+type: component
+status: stable
+framework: react
+platform: web

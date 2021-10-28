@@ -1,0 +1,9 @@
+name: Data table
+description:
+  Data tables are used to organize and display data efficiently. The data table
+  component allows for customization with additional functionality, as needed by
+  your product’s users.
+type: component
+status: stable
+framework: react
+platform: web

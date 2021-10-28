@@ -1,0 +1,8 @@
+name: Progress indicator
+description:
+  A progress indicator is a visual representation of a user’s progress through a
+  set of steps, guiding toward the completion of a specified process.
+type: component
+status: stable
+framework: react
+platform: web

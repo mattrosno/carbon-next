@@ -1,0 +1,8 @@
+name: File uploader
+description:
+  File uploaders allow users to select one or more files to upload to a specific
+  location.
+type: component
+status: stable
+framework: react
+platform: web

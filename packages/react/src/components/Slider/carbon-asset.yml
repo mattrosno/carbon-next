@@ -1,0 +1,8 @@
+name: Slider
+description:
+  Sliders provide a visual indication of adjustable content, where the user can
+  increase or decrease the value by moving the handle along a horizontal track.
+type: component
+status: stable
+framework: react
+platform: web

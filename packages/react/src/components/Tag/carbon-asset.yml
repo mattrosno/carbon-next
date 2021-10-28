@@ -1,0 +1,8 @@
+name: Tag
+description:
+  Use tags to label, categorize, or organize items using keywords that describe
+  them.
+type: component
+status: stable
+framework: react
+platform: web

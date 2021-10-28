@@ -1,0 +1,8 @@
+name: Radio button
+description:
+  Use radio buttons when you have a group of mutually exclusive choices and only
+  one selection from the group is allowed.
+type: component
+status: stable
+framework: react
+platform: web

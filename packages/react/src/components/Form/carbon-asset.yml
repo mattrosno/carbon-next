@@ -1,0 +1,8 @@
+name: Form
+description:
+  A form is a group of related input controls that allows users to provide data
+  or configure options.
+type: component
+status: stable
+framework: react
+platform: web

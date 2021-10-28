@@ -1,0 +1,8 @@
+name: Tabs
+description:
+  Use tabs to allow users to navigate easily between views within the same
+  context.
+type: component
+status: stable
+framework: react
+platform: web

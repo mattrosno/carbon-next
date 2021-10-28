@@ -1,0 +1,8 @@
+name: Overflow menu
+description:
+  Use the overflow menu component when additional options are available to the
+  user but there is a space constraint.
+type: component
+status: stable
+framework: react
+platform: web

@@ -1,0 +1,8 @@
+name: Checkbox
+description:
+  Checkboxes are used when there are multiple items to select in a list. Users
+  can select zero, one, or any number of items.
+type: component
+status: stable
+framework: react
+platform: web

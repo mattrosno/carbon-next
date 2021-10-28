@@ -1,0 +1,8 @@
+name: Tooltip
+description:
+  Tooltips display additional information upon click, hover, or focus. The
+  information should be contextual, useful, and nonessential.
+type: component
+status: stable
+framework: react
+platform: web

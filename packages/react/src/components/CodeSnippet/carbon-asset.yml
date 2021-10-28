@@ -1,0 +1,8 @@
+name: Code snippet
+description:
+  Code snippets are strings or small blocks of reusable code that can be copied
+  and inserted in a code file.
+type: component
+status: stable
+framework: react
+platform: web

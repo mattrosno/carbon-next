@@ -1,0 +1,8 @@
+name: Number input
+description:
+  The number input component is used for entering numeric values and includes
+  controls for incrementally increasing or decreasing the value.
+type: component
+status: stable
+framework: react
+platform: web

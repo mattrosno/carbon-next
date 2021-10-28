@@ -1,0 +1,8 @@
+name: Date picker
+description:
+  Date and time pickers allow users to select a single or a range of dates and
+  times.
+type: component
+status: stable
+framework: react
+platform: web

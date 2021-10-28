@@ -1,0 +1,8 @@
+name: Tile
+description:
+  Tiles are a highly flexible component for displaying a wide variety of
+  content, including information, getting started, how-to, next steps, and more.
+type: component
+status: stable
+framework: react
+platform: web
