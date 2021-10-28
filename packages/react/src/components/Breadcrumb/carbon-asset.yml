@@ -2,6 +2,7 @@ name: Breadcrumb
 description:
   The breadcrumb is a secondary navigation pattern that helps a user understand
   the hierarchy among levels and navigate back through them.
+thumbnail: /docs/breadcrumb-thumbnail.png
 type: component
 status: stable
 framework: react
