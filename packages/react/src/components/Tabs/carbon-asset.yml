@@ -6,4 +6,4 @@ type: component
 status: stable
 framework: react
 platform: web
-thumbnail: /docs/tabs-thumbnail.svg
+thumbnailPath: /docs/tabs-thumbnail.svg

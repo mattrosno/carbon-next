@@ -2,7 +2,7 @@ name: Accordion
 description:
   An accordion is a vertically stacked list of headers that reveal or hide
   associated sections of content.
-thumbnail: /docs/accordion-thumbnail.png
+thumbnailPath: /docs/accordion-thumbnail.png
 type: component
 status: stable
 framework: react
